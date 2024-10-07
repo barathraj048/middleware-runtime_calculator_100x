@@ -1,6 +1,6 @@
 Hey this is barath!!...
 
-# Request Time Tracker in Node.js with Express
+# Time Tracker Middleware in Node.js with Express
 
 This project demonstrates how to calculate the amount of time taken to complete the request-response cycle in an Express server. It uses middleware to log the duration of requests, giving insight into server performance and response times.
 
